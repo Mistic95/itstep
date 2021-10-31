@@ -1,1 +1,25 @@
-111
+										111
+
+
+
+
+
+
+
+
+
+
+These release notes describe issues specific to the Git for Windows release. The release notes covering the history of the core git commands can be found in the Git project.
+
+See http://git-scm.com/ for further details about Git including ports to other operating systems. Git for Windows is hosted at https://gitforwindows.org/.
+
+▷
+Known issues
+Should you encounter other problems, please first search the bug tracker (also look at the closed issues) and the mailing list, chances are that the problem was reported already. Also make sure that you use an up to date Git for Windows version (or a current snapshot build). If it has not been reported, please follow our bug reporting guidelines and report the bug.
+
+▷
+Licenses
+▽
+Changes in v2.30.1
+since v2.30.0(2) (January 14th 2021)
+New Features
